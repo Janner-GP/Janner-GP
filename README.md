@@ -6,7 +6,7 @@
 
 **Summary**
 
-Passionate and experienced Full Stack Developer with a proven track record of designing, developing, and deploying high-quality web applications. Expertise in both front-end and back-end technologies, thrives in collaborative environments, and continuously seeks opportunities for growth and learning.
+Passionate and experienced Full Stack Developer👨🏽‍💻 with a proven track record of designing, developing, and deploying high-quality web applications. Expertise in both front-end and back-end technologies, thrives in collaborative environments, and continuously seeks opportunities for growth and learning.
 
 **Skills**
 
@@ -20,13 +20,13 @@ Passionate and experienced Full Stack Developer with a proven track record of de
 ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)
 
 **Mobile:**
+
 ![Flutter](https://img.icons8.com/color/48/000000/flutter.png)
 
 **Back-end:**
 
 ![Python](https://img.icons8.com/color/48/000000/python.png)
 ![Django](https://img.icons8.com/color/48/000000/django.png)
-![Flask](https://img.icons8.com/ios-filled/50/000000/flask.png)
 ![FastAPI](https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png)
 ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)
 
