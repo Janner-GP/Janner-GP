@@ -23,10 +23,10 @@ Passionate and experienced Full Stack Developer👨🏽‍💻 with a proven tra
 
 **Back-end:**
 
-![Python](https://img.icons8.com/color/48/000000/python.png)
-![Django](https://img.icons8.com/color/48/000000/django.png)
-![FastAPI](https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png){width=100px}
-![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)
+![Python](https://img.icons8.com/?size=50&id=l75OEUJkPAk4&format=png&color=000000)
+![Django](https://img.icons8.com/color/50/000000/django.png)
+![FastAPI](https://miro.medium.com/v2/resize:fit:150/format:png/1*du7p50wS_fIsaC_lR18qsg.png)
+![Node.js](https://img.icons8.com/color/60/000000/nodejs.png)
 
 **Databases:**
 
