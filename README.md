@@ -2,11 +2,11 @@
 
 **Email:** [jannergonpa.10@gmail.com](jannergonpa.10@gmail.com)
 
-**LinkedIn:** [https://www.linkedin.com/in/jane-gonzalez-6144022a](https://www.linkedin.com/in/jane-gonzalez-6144022a) 
+**LinkedIn:** [https://www.linkedin.com/in/janner-gonzalez](https://www.linkedin.com/in/jane-gonzalez-6144022a) 
 
 **Summary**
 
-Passionate and experienced Full Stack Developer   with a proven track record of designing, developing, and deploying high-quality web applications.  Expertise in both front-end and back-end technologies, thrives in collaborative environments  , and continuously seeks opportunities for growth and learning  .
+Passionate and experienced Full Stack Developer   with a proven track record of designing, developing, and deploying high-quality web applications.  Expertise in both front-end and back-end technologies, thrives in collaborative environments  , and continuously seeks opportunities for growth and learning.
 
 **Skills**
 
