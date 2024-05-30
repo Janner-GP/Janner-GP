@@ -39,13 +39,3 @@ Passionate and experienced Full Stack Developer👨🏽‍💻 with a proven tra
 ![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png)
 ![Azure](https://img.icons8.com/color/48/000000/azure-1.png)
 ![GCP](https://img.icons8.com/color/48/000000/google-cloud-platform.png)
-
-**Projects**
-
-* **[Article Insight]()**: En este proyecto desarrollado con FastAPI y Angular haciendo uso de la API de ChatGPT se puede realizar una conversacion con este atravez de un articulo con su URL aplicando algunos principios basicos del Scrapping.
-
-**Call to Action**
-
-Connect with me to discuss potential projects, explore collaboration opportunities, or simply share your thoughts on the ever-evolving world of technology.
-
-**[Janner-GP](https://github.com/Janner-GP)**
