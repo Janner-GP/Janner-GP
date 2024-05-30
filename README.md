@@ -1,10 +1,10 @@
-# Hey, I'm Janner Gonzalez  - Full stack developer
+# Hey, I'm Janner Gonzalez👋🏽  - Full stack developer
 
 **LinkedIn:** [Perfil de LinkedIn](https://www.linkedin.com/in/janner-gonzalez) 
 
 **Summary**
 
-Passionate and experienced Full Stack Developer👨🏽‍💻 with a proven track record of designing, developing, and deploying high-quality web applications. Expertise in both front-end and back-end technologies, thrives in collaborative environments, and continuously seeks opportunities for growth and learning.
+Passionate and experienced Full Stack Developer👨🏽‍💻 with a proven track record of designing, developing, and deploying high-quality web applications. Expertise in both front-end and back-end technologies, thrives in collaborative environments, and continuously seeks opportunities for growth and learning🚀.
 
 **Skills**
 
@@ -24,9 +24,9 @@ Passionate and experienced Full Stack Developer👨🏽‍💻 with a proven tra
 **Back-end:**
 
 ![Python](https://img.icons8.com/?size=50&id=l75OEUJkPAk4&format=png&color=000000)
-![Django](https://img.icons8.com/color/50/000000/django.png)
-![FastAPI](https://miro.medium.com/v2/resize:fit:150/format:png/1*du7p50wS_fIsaC_lR18qsg.png)
-![Node.js](https://img.icons8.com/color/60/000000/nodejs.png)
+![Django](https://img.icons8.com/?size=50&id=qV-JzWYl9dzP&format=png&color=000000)
+![FastAPI](https://miro.medium.com/v2/resize:fit:140/format:png/1*du7p50wS_fIsaC_lR18qsg.png)
+![Node.js](https://img.icons8.com/color/50/000000/nodejs.png)
 
 **Databases:**
 
@@ -38,4 +38,4 @@ Passionate and experienced Full Stack Developer👨🏽‍💻 with a proven tra
 
 ![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png)
 ![Azure](https://img.icons8.com/color/48/000000/azure-1.png)
-![GCP](https://img.icons8.com/color/48/000000/google-cloud-platform.png)
+![Digital Ocean](https://img.icons8.com/?size=50&id=NTk60lqGX88D&format=png&color=FFFFFF)
