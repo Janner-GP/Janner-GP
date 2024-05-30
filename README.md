@@ -1,6 +1,6 @@
-# Janner Gonzalez   (Full Stack Developer)
+# Hey, I'm Janner Gonzalez  - Full stack developer
 
-![Janner Gonzalez](https://avatars.githubusercontent.com/u/76578696?s=40&v=4)
+![Janner Gonzalez](https://avatars.githubusercontent.com/u/76578696?s=400&u=920ab0f29278a552c61262b321360293a64cde11&v=4)
 
 **LinkedIn:** [Perfil de LinkedIn](https://www.linkedin.com/in/janner-gonzalez) 
 
@@ -27,7 +27,7 @@ Passionate and experienced Full Stack Developer👨🏽‍💻 with a proven tra
 
 ![Python](https://img.icons8.com/color/48/000000/python.png)
 ![Django](https://img.icons8.com/color/48/000000/django.png)
-![FastAPI](https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png)
+![FastAPI](https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png){width=100px}
 ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)
 
 **Databases:**
