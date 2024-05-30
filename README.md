@@ -1,8 +1,6 @@
 # Janner Gonzalez   (Full Stack Developer)
 
-![Janner Gonzalez](insertar_enlace_imagen)
-
-**Email:** [jannergonpa.10@gmail.com](mailto:jannergonpa.10@gmail.com)
+![Janner Gonzalez](https://avatars.githubusercontent.com/u/76578696?s=40&v=4)
 
 **LinkedIn:** [Perfil de LinkedIn](https://www.linkedin.com/in/janner-gonzalez) 
 
@@ -15,8 +13,8 @@ Passionate and experienced Full Stack Developer with a proven track record of de
 **Front-end:**
 
 ![Angular](https://img.icons8.com/color/48/000000/angularjs.png)
-![React](https://img.icons8.com/plasticine/50/000000/react.png)
 ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
+![Typecript](https://img.icons8.com/color/48/000000/typescript.png)
 ![HTML](https://img.icons8.com/color/48/000000/html-5.png)
 ![CSS](https://img.icons8.com/color/48/000000/css3.png)
 ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)
@@ -29,8 +27,8 @@ Passionate and experienced Full Stack Developer with a proven track record of de
 ![Python](https://img.icons8.com/color/48/000000/python.png)
 ![Django](https://img.icons8.com/color/48/000000/django.png)
 ![Flask](https://img.icons8.com/ios-filled/50/000000/flask.png)
+![FastAPI](https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png)
 ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)
-![Express.js](https://img.icons8.com/ios/50/000000/nodejs.png)
 
 **Databases:**
 
