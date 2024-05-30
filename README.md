@@ -1,47 +1,48 @@
 # Janner Gonzalez   (Full Stack Developer)
 
-**Email:** [jannergonpa.10@gmail.com](jannergonpa.10@gmail.com)
+![Janner Gonzalez](insertar_enlace_imagen)
 
-**LinkedIn:** [https://www.linkedin.com/in/janner-gonzalez](https://www.linkedin.com/in/jane-gonzalez-6144022a) 
+**Email:** [jannergonpa.10@gmail.com](mailto:jannergonpa.10@gmail.com)
+
+**LinkedIn:** [Perfil de LinkedIn](https://www.linkedin.com/in/janner-gonzalez) 
 
 **Summary**
 
-Passionate and experienced Full Stack Developer   with a proven track record of designing, developing, and deploying high-quality web applications.  Expertise in both front-end and back-end technologies, thrives in collaborative environments  , and continuously seeks opportunities for growth and learning.
+Passionate and experienced Full Stack Developer with a proven track record of designing, developing, and deploying high-quality web applications. Expertise in both front-end and back-end technologies, thrives in collaborative environments, and continuously seeks opportunities for growth and learning.
 
 **Skills**
 
 **Front-end:**
 
-* Angular ⚛️
-* React ⚛️
-* JavaScript 
-* HTML 
-* CSS 
-* Bootstrap ️
+![Angular](https://img.icons8.com/color/48/000000/angularjs.png)
+![React](https://img.icons8.com/plasticine/50/000000/react.png)
+![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
+![HTML](https://img.icons8.com/color/48/000000/html-5.png)
+![CSS](https://img.icons8.com/color/48/000000/css3.png)
+![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)
 
 **Mobile:**
-* Flutter
+![Flutter](https://img.icons8.com/color/48/000000/flutter.png)
 
 **Back-end:**
 
-* Python 
-* Django 
-* Flask ⚗️
-* Node.js 
-* Express.js 
+![Python](https://img.icons8.com/color/48/000000/python.png)
+![Django](https://img.icons8.com/color/48/000000/django.png)
+![Flask](https://img.icons8.com/ios-filled/50/000000/flask.png)
+![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)
+![Express.js](https://img.icons8.com/ios/50/000000/nodejs.png)
 
 **Databases:**
 
-* PostgreSQL 
-* MySQL 
-* MongoDB 
+![PostgreSQL](https://img.icons8.com/color/48/000000/postgreesql.png)
+![MySQL](https://img.icons8.com/color/48/000000/mysql.png)
+![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)
 
 **Cloud Platforms:**
 
-* AWS ☁️
-* Azure ☁️
-* GCP ☁️
-
+![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png)
+![Azure](https://img.icons8.com/color/48/000000/azure-1.png)
+![GCP](https://img.icons8.com/color/48/000000/google-cloud-platform.png)
 
 **Projects**
 
@@ -49,6 +50,6 @@ Passionate and experienced Full Stack Developer   with a proven track record of 
 
 **Call to Action**
 
-Connect with me to discuss potential projects  , explore collaboration opportunities  , or simply share your thoughts on the ever-evolving world of technology. 
+Connect with me to discuss potential projects, explore collaboration opportunities, or simply share your thoughts on the ever-evolving world of technology.
 
 **[Janner-GP](https://github.com/Janner-GP)**
